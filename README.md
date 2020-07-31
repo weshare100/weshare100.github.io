@@ -5,4 +5,6 @@ word....
 ### Test head 3
 [link to the pdf](documents/test.pdf)
 
+[page1](pages/page1)
+
 gesang
